@@ -1,8 +1,7 @@
 package test;
 
 public class testing {
- private void sysout() {
-	// TODO Auto-generated method stub
+	public static void main(String[] args) {
 
-}
+	}
 }
